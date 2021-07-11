@@ -1,0 +1,26 @@
+.logo {
+  height: 50px;
+}
+.avatar {
+  height: 30px;
+}
+.navbar-nav .nav-item {
+  text-transform: uppercase;
+  margin-left: 5%;
+  font-weight: bold;
+}
+.bold {
+  font-size: 0.85rem;
+}
+.dropdown-menu.show {
+  margin-left: -6%;
+  border-radius: 10px;
+  transform: translate3d(0px, 46px, 0px);
+  right: 0px;
+  top: 0px !important;
+  left: -50px !important;
+  will-change: transform;
+}
+.pl {
+  padding-left: 8%;
+}

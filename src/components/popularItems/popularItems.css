@@ -1,0 +1,16 @@
+.img-men {
+  height: 250px;
+  width: 250px;
+}
+
+.icon {
+  color: blue;
+}
+.text {
+  font-weight: 700;
+  font-size: 20px;
+  color: blue;
+}
+.pl {
+  padding-left: 10px;
+}

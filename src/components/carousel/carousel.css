@@ -1,0 +1,25 @@
+.height {
+  height: "100vh";
+}
+.wh {
+  height: "100vh";
+  width: "100vw";
+}
+.transform {
+  transform: "translateY(10%)";
+}
+.img-css {
+  padding-left: "3%";
+  margin-top: "3%";
+}
+.lady-img {
+  margin-top: -6%;
+}
+.padding {
+  padding-left: 6%;
+  margin-top: 3%;
+}
+.padding-1 {
+  padding-left: 3%;
+  margin-top: 3%;
+}

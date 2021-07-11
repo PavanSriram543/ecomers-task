@@ -1,0 +1,6 @@
+.couple-bg {
+  background: url("../assets/desktop.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}

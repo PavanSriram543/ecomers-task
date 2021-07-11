@@ -1,0 +1,5 @@
+.bg-img {
+  background-image: url("../assets/desktop-1.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
